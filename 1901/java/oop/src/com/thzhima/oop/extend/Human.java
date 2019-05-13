@@ -1,7 +1,7 @@
 package com.thzhima.oop.extend;
 
 public class Human {
-	public String name;
+	public String name = "Àî±ø";
 	public String gender;
 	
 	public Human(String name, String gender) {
