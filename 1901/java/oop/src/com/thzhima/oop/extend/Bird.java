@@ -3,7 +3,7 @@ package com.thzhima.oop.extend;
 public class Bird extends Animal {
 
 	@Override
-	private void move() {
+	public void move() {
 		super.move();
 		this.run();
 	}
