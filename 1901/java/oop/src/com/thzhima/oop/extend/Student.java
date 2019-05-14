@@ -15,7 +15,7 @@ public class Student extends Human{
 		super(name, gender);
 //		this.name = name;
 //		super.gender = gender;
-		this.school = school;
+		Student.this.school = school;
 		
 	}
 	
