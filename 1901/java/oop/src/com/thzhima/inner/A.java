@@ -17,5 +17,10 @@ public class A {
 	private void createB() {
 		B b = new B();
 		System.out.println(b.value);
+		
+		Sta.B  stab = new Sta.B();
+		
+		MyLinkedList.Node n =
+		new MyLinkedList().new Node(null, null, null);
 	}
 }

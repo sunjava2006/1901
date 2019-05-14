@@ -30,11 +30,9 @@ public class MyLinkedList {
 				first.next = null;
 				first = first.next;
 			}else if(size-1 == idx){
-				last.previous.next = null;
-				Node l = last;
 				last = last.previous;
-				l.previous = null;
-				l = null;
+				last.next.previous = null;
+				last.next = null;
 		
 			}else {
 				
@@ -66,7 +64,7 @@ public class MyLinkedList {
 		return this.size;
 	}
 	
-	private class Node{
+	 class Node{
 		Node previous;
 		Node next;
 		Object value;
