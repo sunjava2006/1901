@@ -18,6 +18,32 @@ public class MyLinkedList {
 		size++;
 	}
 	
+	
+	public boolean remove(int idx) {
+		if(idx<0 || idx>=size) {
+			return false;
+		}else {
+			if(0 == idx) {
+				if(first.next!=null) {
+					first.next.previous=null;
+				}
+				first.next = null;
+				first = first.next;
+			}else if(size-1 == idx){
+				last.previous.next = null;
+				Node l = last;
+				last = last.previous;
+				l.previous = null;
+				l = null;
+		
+			}else {
+				
+			}
+			size--;
+			return true;
+		}
+	}
+	
 	public Object get(int idx) {
 		if(idx >= 0 && idx<size) {
 			if(0 ==idx) {
@@ -55,8 +81,10 @@ public class MyLinkedList {
 	public static void main(String[] args) {
 		MyLinkedList list = new MyLinkedList();
 		list.add(100);
+		//list.remove(0);
 		list.add(200);
 		list.add(300);
+		list.remove(2);
 
 		System.out.println(list.size());
 		
