@@ -4,9 +4,21 @@ package com.thzhima.factory;
 public class CarFactory {
 	private CarFactory(){}
 	
-	private static CarFactory f = new CarFactory();
+	// ฑฅบบ
+//    private static CarFactory f = new CarFactory();
+//	
+//	public static CarFactory getFactoryInstance(){
+//		
+//		return f;
+//	}
+	
+	//  ถ๖บบ
+	private static CarFactory f ;
 	
 	public static CarFactory getFactoryInstance(){
+		if( null == f){
+			f = new CarFactory();
+		}
 		return f;
 	}
 
