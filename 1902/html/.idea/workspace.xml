@@ -2,24 +2,14 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/pages/photo_wall.html" line="21" />
+    <bookmark url="file://$PROJECT_DIR$/pages/blog.html" line="7" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5f382c3-6084-4775-8308-703229f547fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/imgs/map.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/contex_selector.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/div.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/div_position.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/float.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/photo_wall.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/selecter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/sibliming.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/blog.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../1901/java/oop/bin/com/thzhima/arrays/Array3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../1901/java/oop/bin/com/thzhima/arrays/Array3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../1901/java/oop/src/com/thzhima/arrays/Array3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../1901/java/oop/src/com/thzhima/arrays/Array3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HTML.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../HTML.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/line_layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/line_layout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../~$HTML.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../~$HTML.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../~WRL2661.tmp" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,10 +23,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/line_layout.html">
+        <entry file="file://$PROJECT_DIR$/pages/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+            <state relative-caret-position="323">
+              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -72,10 +62,11 @@
         <option value="$PROJECT_DIR$/pages/float.html" />
         <option value="$PROJECT_DIR$/pages/photo_wall.html" />
         <option value="$PROJECT_DIR$/pages/line_layout.html" />
+        <option value="$PROJECT_DIR$/pages/blog.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="280" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -152,15 +143,16 @@
       <workItem from="1558347568539" duration="211000" />
       <workItem from="1558347799014" duration="36000" />
       <workItem from="1558351879088" duration="134000" />
-      <workItem from="1558399560878" duration="13074000" />
+      <workItem from="1558399560878" duration="13843000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25039000" />
+    <option name="totallyTimeSpent" value="25808000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22523117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -298,6 +290,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
           <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
         </state>
       </provider>
     </entry>
