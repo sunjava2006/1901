@@ -6,7 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5f382c3-6084-4775-8308-703229f547fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/blog.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/homework/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/homework/2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../1901/java/oop/bin/com/thzhima/arrays/Array3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../1901/java/oop/bin/com/thzhima/arrays/Array3.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../1901/java/oop/src/com/thzhima/arrays/Array3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../1901/java/oop/src/com/thzhima/arrays/Array3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -22,11 +23,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+            <state relative-caret-position="-457">
+              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/homework/1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="22" column="23" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="22" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/homework/2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -63,6 +82,8 @@
         <option value="$PROJECT_DIR$/pages/photo_wall.html" />
         <option value="$PROJECT_DIR$/pages/line_layout.html" />
         <option value="$PROJECT_DIR$/pages/blog.html" />
+        <option value="$PROJECT_DIR$/pages/homework/1.html" />
+        <option value="$PROJECT_DIR$/pages/homework/2.html" />
       </list>
     </option>
   </component>
@@ -96,6 +117,12 @@
               <item name="html" type="b2602c69:ProjectViewProjectNode" />
               <item name="html" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="html" type="b2602c69:ProjectViewProjectNode" />
+              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,12 +170,12 @@
       <workItem from="1558347568539" duration="211000" />
       <workItem from="1558347799014" duration="36000" />
       <workItem from="1558351879088" duration="134000" />
-      <workItem from="1558399560878" duration="13843000" />
+      <workItem from="1558399560878" duration="15834000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25808000" />
+    <option name="totallyTimeSpent" value="27799000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -295,8 +322,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/blog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        <state relative-caret-position="-457">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/homework/1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="22" column="23" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/homework/2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
         </state>
       </provider>
     </entry>
