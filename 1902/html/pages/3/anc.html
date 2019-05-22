@@ -3,22 +3,51 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <style>
+        body{
+            font-size: 14px;
+        }
+        h1{
+            font-size: 1.5em;
+            text-align: center;
+        }
+        #p1{
+            font-style: italic; /*font-style 字体样式: 斜体*/
+        }
+        #p2{
+            font-weight:bolder; /*字体重： 加粗*/
+        }
+        #p3{
+            text-decoration: underline; /*文字 装饰 ： 下划线*/
+        }
+        #p4{
+            text-decoration: overline; /* 上 划线*/
+        }
+        #p5{
+            text-decoration: line-through; /*  线——穿过： 中划线 */
+        }
+    </style>
 </head>
 <body>
 <pre>
     <a href="#p122">1.2.2节</a>
-第1章 HTML
-HTML 文件是由 HTML 语言编写的。HTML（HyperText MarkUp Language）是用特殊标签
+    <h1>第1章 HTML</h1>
+    <p id="p1">HTML 文件是由 HTML 语言编写的。HTML（HyperText MarkUp Language）是用特殊标签
 来描述文档结构和表现形式的一种语言，由 W3C（World Wide Web Consortium）所制定和
 更新。HTML 是介于“前台排版”和“后台排版”之间的一种语言。前台排版，就是像 Microsoft
 Word 一样有“所见即所得”的特性，不用再经过其他处理就能得到预见的结果；而后台排
-版则需要经过解释的动作之后才能得到我们想要的效果。
-我们可以用任何一种纯文本编辑器来编辑 HTML 文件，因为它就是一个纯文本文件。也
+版则需要经过解释的动作之后才能得到我们想要的效果。</p>
+    <p id="p2">我们可以用任何一种纯文本编辑器来编辑 HTML 文件，因为它就是一个纯文本文件。也
 正因为这样，网页的文字部分可以算作前台排版；但在特殊效果方面，只有经过浏览器的解
-释才能看到，又属于后台排版。
-HTML 不仅仅能展示平面文字信息，还支持许多类型的信息，如电子新闻、各种影音多
-媒体信息、动态菜单，也能借助 CGI、ASP 或者 Java 等语言来构成查询服务系统或电子交易
-系统之类的数据库系统的前台。
+释才能看到，又属于后台排版。</p>
+    <p id="p3">HTML 不仅仅能展示平面文字信息，还支持许多类型的信息，如电子新闻、各种影音多</p>
+    <p id="p4"> 媒体信息、动态菜单，也能借助 CGI、ASP 或者 Java 等语言来构成查询服务系统或电子交易</p>
+    <p id="p5"> 系统之类的数据库系统的前台。</p>
+
+
+
+
+
 本章目标
  了解 HTML 语言的基本结构；
  熟悉 HTML 语言标签的使用方法，重点内容是<form>、<input>等标签的使用；
