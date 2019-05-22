@@ -6,13 +6,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5f382c3-6084-4775-8308-703229f547fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/金文大篆体.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/3/c_s_font.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/3/line_control.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/3/logic_font.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/homework/3/benq.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/dot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/3/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/3/menu_list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/3/anc.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/3/anc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/3/line_control.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/3/line_control.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -26,11 +24,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/blog.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1260">
-              <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
+            <state relative-caret-position="293">
+              <caret line="62" column="30" lean-forward="true" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/3/menu_list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/3/list.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -65,17 +81,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/3/line_control.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="-127">
               <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/homework/3/benq.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="89">
-              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            <state relative-caret-position="-97">
+              <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
               <folding>
                 <element signature="n#style#0;n#span#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -127,18 +143,20 @@
         <option value="$PROJECT_DIR$/pages/homework/2.html" />
         <option value="$PROJECT_DIR$/pages/3/frame.html" />
         <option value="$PROJECT_DIR$/pages/3/a.html" />
-        <option value="$PROJECT_DIR$/pages/blog.html" />
         <option value="$PROJECT_DIR$/pages/3/anc.html" />
         <option value="$PROJECT_DIR$/pages/3/logic_font.html" />
         <option value="$PROJECT_DIR$/pages/3/c_s_font.html" />
-        <option value="$PROJECT_DIR$/pages/3/line_control.html" />
         <option value="$PROJECT_DIR$/pages/homework/3/benq.html" />
+        <option value="$PROJECT_DIR$/pages/3/line_control.html" />
+        <option value="$PROJECT_DIR$/pages/3/list.html" />
+        <option value="$PROJECT_DIR$/pages/blog.html" />
+        <option value="$PROJECT_DIR$/pages/3/menu_list.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="112" />
-    <option name="y" value="67" />
+    <option name="y" value="57" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
@@ -184,13 +202,6 @@
               <item name="pages" type="462c0819:PsiDirectoryNode" />
               <item name="homework" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="html" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-              <item name="3" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -202,13 +213,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\_git_code_workspace\1902\html\css" />
       <recent name="D:\_git_code_workspace\1902\html\imgs" />
+      <recent name="D:\_git_code_workspace\1902\html\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -240,7 +251,7 @@
       <workItem from="1558351879088" duration="134000" />
       <workItem from="1558399560878" duration="16077000" />
       <workItem from="1558485810381" duration="7466000" />
-      <workItem from="1558495196563" duration="1099000" />
+      <workItem from="1558495196563" duration="7193000" />
     </task>
     <task id="LOCAL-00001" summary="5-22">
       <created>1558487836888</created>
@@ -256,17 +267,24 @@
       <option name="project" value="LOCAL" />
       <updated>1558488391368</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="5-22">
+      <created>1558496458401</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1558496458401</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36607000" />
+    <option name="totallyTimeSpent" value="42701000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="90" y="54" width="1400" height="784" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23313783" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21003963" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -430,13 +448,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/blog.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="42" column="12" selection-start-line="42" selection-start-column="12" selection-end-line="42" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/3/anc.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -458,6 +469,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pages/homework/3/benq.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-97">
+          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#span#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pages/3/a.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -467,18 +488,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/3/line_control.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="-127">
           <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/homework/3/benq.html">
+    <entry file="file://$PROJECT_DIR$/pages/3/menu_list.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
-          <folding>
-            <element signature="n#style#0;n#span#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="143">
+          <caret line="30" column="30" lean-forward="true" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/3/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="36" lean-forward="true" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/blog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="62" column="30" lean-forward="true" selection-start-line="62" selection-start-column="30" selection-end-line="62" selection-end-column="30" />
         </state>
       </provider>
     </entry>
