@@ -6,15 +6,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5f382c3-6084-4775-8308-703229f547fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pages/3/a.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/3/anc.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/3/frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1901/java/oop/bin/com/thzhima/arrays/Array3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../1901/java/oop/bin/com/thzhima/arrays/Array3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1901/java/oop/src/com/thzhima/arrays/Array3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../1901/java/oop/src/com/thzhima/arrays/Array3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../~$HTML.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../~WRL0005.tmp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/3/anc.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/3/anc.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,42 +19,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/3/frame.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/3/a.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="7" column="56" selection-start-line="7" selection-start-column="56" selection-end-line="7" selection-end-column="56" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/3/anc.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1380">
-              <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-              <folding>
-                <element signature="e#1284#1288#0" expanded="true" />
-                <element signature="e#1303#1307#0" expanded="true" />
-                <element signature="e#1322#1328#0" expanded="true" />
-                <element signature="e#1343#1348#0" expanded="true" />
-                <element signature="e#1363#1369#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -101,9 +59,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="280" />
-    <option name="y" value="25" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="180" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
@@ -185,18 +142,25 @@
       <workItem from="1558347799014" duration="36000" />
       <workItem from="1558351879088" duration="134000" />
       <workItem from="1558399560878" duration="16077000" />
-      <workItem from="1558485810381" duration="1978000" />
+      <workItem from="1558485810381" duration="2521000" />
     </task>
+    <task id="LOCAL-00001" summary="5-22">
+      <created>1558487836888</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1558487836888</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30020000" />
+    <option name="totallyTimeSpent" value="30563000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="144" y="0" width="1400" height="784" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22523117" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -217,6 +181,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="5-22" />
+    <option name="LAST_COMMIT_MESSAGE" value="5-22" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pages/1.html">
@@ -372,8 +340,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/3/anc.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1380">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+        <state relative-caret-position="1710">
+          <caret line="69" column="6" lean-forward="true" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
           <folding>
             <element signature="e#1284#1288#0" expanded="true" />
             <element signature="e#1303#1307#0" expanded="true" />
