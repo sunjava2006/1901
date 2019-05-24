@@ -6,16 +6,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5f382c3-6084-4775-8308-703229f547fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/image.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/4/dl.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/4/image.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/4/table.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/4/table_exam.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/blog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/banel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/banel_b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/bar_1px.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/dot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/logon.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/rose.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/4/background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/4/repeat.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/4/spec.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/homework/4/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/3/menu_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/3/menu_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/4/table_exam.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/4/table_exam.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -28,25 +31,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/4/table.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pages/homework/4/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="12" column="35" lean-forward="true" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+            <state relative-caret-position="510">
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pages/4/table_exam.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/blog.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="503">
-              <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
-              <folding>
-                <element signature="n#style#0;n#td#1;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#td#0;n#tr#9;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#1783#1789#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="593">
+              <caret line="53" selection-start-line="53" selection-end-line="53" />
             </state>
           </provider>
         </entry>
@@ -56,8 +54,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -100,14 +98,19 @@
         <option value="$PROJECT_DIR$/css/image.css" />
         <option value="$PROJECT_DIR$/pages/4/table.html" />
         <option value="$PROJECT_DIR$/pages/4/table_exam.html" />
+        <option value="$PROJECT_DIR$/pages/4/background.html" />
+        <option value="$PROJECT_DIR$/pages/4/repeat.html" />
+        <option value="$PROJECT_DIR$/pages/4/spec.html" />
+        <option value="$PROJECT_DIR$/css/blog.css" />
+        <option value="$PROJECT_DIR$/pages/homework/4/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="333" />
-    <option name="y" value="126" />
-    <option name="width" value="1199" />
-    <option name="height" value="974" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1200" />
+    <option name="height" value="830" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -144,7 +147,7 @@
               <item name="html" type="b2602c69:ProjectViewProjectNode" />
               <item name="html" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="4" type="462c0819:PsiDirectoryNode" />
+              <item name="homework" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -197,7 +200,9 @@
       <workItem from="1558485810381" duration="7466000" />
       <workItem from="1558495196563" duration="7797000" />
       <workItem from="1558574071841" duration="4049000" />
-      <workItem from="1558589633444" duration="3619000" />
+      <workItem from="1558589633444" duration="7246000" />
+      <workItem from="1558600062125" duration="1666000" />
+      <workItem from="1558678959220" duration="1877000" />
     </task>
     <task id="LOCAL-00001" summary="5-22">
       <created>1558487836888</created>
@@ -227,11 +232,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558509401986</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="5-23">
+      <created>1558594322210</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558594322210</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50973000" />
+    <option name="totallyTimeSpent" value="58143000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -261,7 +273,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="5-22" />
-    <option name="LAST_COMMIT_MESSAGE" value="5-22" />
+    <MESSAGE value="5-23" />
+    <option name="LAST_COMMIT_MESSAGE" value="5-23" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pages/1.html">
@@ -497,13 +510,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/4/table_exam.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="28" column="16" lean-forward="true" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+        <state relative-caret-position="413">
+          <caret line="34" column="32" lean-forward="true" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
           <folding>
-            <element signature="n#style#0;n#td#1;n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#9;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#1783#1789#0" expanded="true" />
+            <element signature="n#style#0;n#td#1;n#tr#1;n#tbody#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#tr#0;n#tfoot#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#2036#2042#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/4/background.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/dot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/map.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/rose.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/4/repeat.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/4/spec.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/banel.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/banel_b.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/blog.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/homework/4/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
         </state>
       </provider>
     </entry>
