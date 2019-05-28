@@ -1,13 +1,32 @@
 {
     "pages": [
         "pages/index/index",
-        "pages/logs/logs"
+        "pages/logs/logs",
+        "pages/news/news"
     ],
     "window": {
         "backgroundTextStyle": "light",
         "navigationBarBackgroundColor": "#f00",
         "navigationBarTitleText": "我的微信小程序",
         "navigationBarTextStyle": "white"
+    },
+    "tabBar": {
+        "color": "#00f",
+        "selectedColor": "#F00",
+        "list": [
+            {
+                "pagePath": "pages/index/index",
+                "text": "index",
+                "iconPath": "imgs/Home.png",
+                "selectedIconPath": "imgs/homer.png"
+            },
+            {
+                "pagePath": "pages/news/news",
+                "text": "news",
+                "iconPath": "imgs/log.png",
+                "selectedIconPath": "imgs/logr.png"
+            }
+        ]
     },
     "sitemapLocation": "sitemap.json"
 }

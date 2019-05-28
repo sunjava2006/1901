@@ -27,10 +27,9 @@
     justify-content: space-between;
 }
 .row{
-   flex-shrink: 1;
-   flex-grow:1;
-
-   /* border: red solid 1px; */
+ 
+   height: 250rpx;
+   border: red solid 1px;
    display: flex;
    flex-direction: row;
    justify-content: space-around;

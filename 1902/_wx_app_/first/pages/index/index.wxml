@@ -10,23 +10,33 @@
             <image src="/imgs/3.jpg" class='swiper-img' />
         </swiper-item>
     </swiper>
-    <view class='items'>
-        <view class='row'>
-            <view>
-                <image src='/imgs/Home.png'></image>
+    <scroll-view class='items' scroll-y='true'
+     bindscrolltolower="lowerAction" lower-threshold="100">
+        <!-- <view> -->
+            <view class='row'>
+                <view>
+                    <image src='/imgs/Home.png'></image>
+                </view>
+                <view bindtap='toLog'>
+                    <image src='/imgs/log.png'/>
+                </view>
+                <view></view>
             </view>
-            <view></view>
-            <view></view>
-        </view>
-        <view class='row'>
-            <view></view>
-            <view></view>
-            <view></view>
-        </view>
-        <view class="row">
-            <view></view>
-            <view></view>
-            <view></view>
-        </view>
-    </view>
+            <view class='row'>
+                <view></view>
+                <view></view>
+                <view></view>
+            </view>
+            <view class="row">
+                <view></view>
+                <view></view>
+                <view></view>
+            </view>
+            <view class="row">
+                <view></view>
+                <view></view>
+                <view></view>
+            </view>
+        <!-- </view> -->
+    </scroll-view>
 </view>
