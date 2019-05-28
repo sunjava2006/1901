@@ -1,0 +1,15 @@
+.top-scroll{
+    height: 100rpx;
+    width:100vw;
+    background: yellow;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    /* width: 1000rpx; */
+}
+.item{
+    width:100rpx;
+    height: 100rpx;
+    border: red solid 1px;
+}
