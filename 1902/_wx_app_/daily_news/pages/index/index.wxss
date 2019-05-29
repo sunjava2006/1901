@@ -1,0 +1,52 @@
+.page{
+    display: flex;
+    flex-direction: column;
+    background: black;
+    height: 100vh;
+}
+.searchbar{
+    height: 80rpx;
+    width: 100vw;
+    background: red;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.searchbar>text{
+    height: 80rpx;
+    line-height: 80rpx;
+    color: white;
+    width: 20vw;
+    font-size: 32rpx;
+}
+.searchbar>view{
+    height: 60rpx;
+    width: 70vw;
+    background: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 15rpx;
+}
+.searchbar>view>image{
+   width: 40rpx;
+   height: 40rpx;
+}
+.searchbar>view>input{
+    width: 55vw;
+    height: 40rpx;
+}
+.menu{
+    height: 80rpx;
+    width: 100vw;
+    background: yellow;
+}
+.list{
+    flex-grow: 1;
+    background: pink;
+    width: 100vw;
+   
+    
+}

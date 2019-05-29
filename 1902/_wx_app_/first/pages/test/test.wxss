@@ -1,6 +1,11 @@
+.top-bar{
+    display: flex;
+    flex-direction: row;
+    background: red;
+}
 .top-scroll{
     height: 100rpx;
-    width:100vw;
+    width:90vw;
     background: yellow;
 }
 .row{
@@ -12,4 +17,10 @@
     width:100rpx;
     height: 100rpx;
     border: red solid 1px;
+}
+.plus{
+    line-height: 100rpx;
+    font-size: 70rpx;
+    color: white;
+
 }

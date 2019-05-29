@@ -1,0 +1,14 @@
+<view class='page'>
+    <view class='searchbar'>
+        <text>搜索</text>
+        <view>
+            <image src='/imgs/search.png'></image>
+            <input></input>
+        </view>
+    </view>
+    <scroll-view class='menu'>
+    </scroll-view>
+    <view class='list'>
+    </view>
+
+</view>
