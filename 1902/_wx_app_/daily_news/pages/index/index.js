@@ -3,12 +3,16 @@
 const app = getApp()
 
 Page({
-  data: {
-   
-  },
-  
-  onLoad: function () {
-    
-  }
-  
+    data: {
+        currId: 0
+    },
+    selectItem: function(e) {
+        var curId = e.target.id;
+        
+        this.setData({currId: curId});
+    },
+    onLoad: function() {
+
+    }
+
 })

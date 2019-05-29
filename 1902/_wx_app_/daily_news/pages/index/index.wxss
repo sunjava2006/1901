@@ -1,7 +1,7 @@
 .page{
     display: flex;
     flex-direction: column;
-    background: black;
+    /* background: black; */
     height: 100vh;
 }
 .searchbar{
@@ -63,13 +63,60 @@
 
 }
 .item{
-    width: 100rpx;
+    width: 120rpx;
     height: 80rpx;
     line-height: 80rpx;
     text-align: center;
 }
+.selected-item{
+    width: 120rpx;
+    height: 80rpx;
+    line-height: 80rpx;
+    text-align: center;
+    font-weight: bold;
+}
 .list{
     flex-grow: 1;
-    background: yellow;
+    /* background: yellow; */
     width: 100vw;
+}
+.news{
+  margin-top:5rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: #000 solid 2px;
+  height: 220rpx;
+}
+.title{
+    width: 100%;
+    height: 50rpx;
+    text-indent: 10rpx;
+    text-align: left;
+}
+.news-imgs{
+    width:96vw;
+    height: 120rpx;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between
+}
+.news-imgs>image{
+    width: 30vw;
+    /* flex-grow: 1;
+    flex-shrink: 1; */
+    height: 120rpx;
+}
+.info{
+    width: 96vw;
+    height: 50rpx;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.auhor,.date{
+    width: 40vw;
+}
+.date{
+    text-align: right;
 }

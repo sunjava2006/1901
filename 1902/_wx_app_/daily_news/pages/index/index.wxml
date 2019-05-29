@@ -10,34 +10,34 @@
         <scroll-view class='kind-list' scroll-x="true">
             <view class="row">
                 <view>
-                    <view class='item'>头条</view>
+                    <view class="{{currId==0?'selected-item':'item'}}" id="0" bindtap='selectItem'>头条</view>
                 </view>
                 <view>
-                    <view class='item'>社会</view>
+                    <view  class="{{currId==1?'selected-item':'item'}}" id="1" bindtap='selectItem'>社会</view>
                 </view>
                 <view>
-                    <view class='item'>国内</view>
+                    <view class="{{currId==2?'selected-item':'item'}}" id="2" bindtap='selectItem'>国内</view>
                 </view>
                 <view>
-                    <view class='item'>国际</view>
+                    <view class="{{currId==3?'selected-item':'item'}}" id="3" bindtap='selectItem'>国际</view>
                 </view>
                 <view>
-                    <view class='item'>娱乐</view>
+                    <view class="{{currId==4?'selected-item':'item'}}" id="4" bindtap='selectItem'>娱乐</view>
                 </view>
                 <view>
-                    <view class='item'>体育</view>
+                    <view class="{{currId==5?'selected-item':'item'}}" id="5" bindtap='selectItem'>体育</view>
                 </view>
                 <view>
-                    <view class='item'>军事</view>
+                    <view class="{{currId==6?'selected-item':'item'}}" id="6" bindtap='selectItem'>军事</view>
                 </view>
                 <view>
-                    <view class='item'>科技</view>
+                    <view class="{{currId==7?'selected-item':'item'}}" id="7" bindtap='selectItem'>科技</view>
                 </view>
                 <view>
-                    <view class='item'>财经</view>
+                    <view class="{{currId==8?'selected-item':'item'}}" id="8" bindtap='selectItem'>财经</view>
                 </view>
                 <view>
-                    <view class='item'>时尚</view>
+                    <view class="{{currId==9?'selected-item':'item'}}" id="9" bindtap='selectItem'>时尚</view>
                 </view>
 
             </view>
@@ -47,7 +47,35 @@
         <view class='plus'>+</view>
     </view>
 
-    <view class='list'>
-    </view>
+    <swiper class='list'  current-item-id='{{currId}}' >
+        <swiper-item item-id="0">
+            <scroll-view scroll-y="true" style='height:100%;'>
+                <view>
+                   <block wx:for="{{14}}">
+                   
+                       <view class='news'>
+                            <view class='title'>智码堂开课了</view>
+                            <view class='news-imgs'>
+                                <image src='/imgs/1.jpg'></image>
+                                <image src='/imgs/2.jpg'></image>
+                                <image src='/imgs/3.jpg'></image>
+                            </view>
+                            <view class='info'>
+                                <text class='author'>中新网</text>
+                                <text class='date'>2019-3-3</text>
+                            </view>
+                        </view>
+                   
+                   
+                   </block>
+                 
+                </view>
+            </scroll-view>
+        </swiper-item>
+        <swiper-item item-id="1">
+            helo
+        </swiper-item>
+
+    </swiper>
 
 </view>
