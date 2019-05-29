@@ -1,13 +1,14 @@
 {
     "pages": [
         "pages/index/index",
-        "pages/logs/logs"
+        "pages/logs/logs",
+        "pages/templates/templates"
     ],
     "window": {
         "backgroundTextStyle": "light",
-        "navigationBarBackgroundColor": "#fff",
-        "navigationBarTitleText": "WeChat",
-        "navigationBarTextStyle": "black"
+        "navigationBarBackgroundColor": "#f00",
+        "navigationBarTitleText": "每日新闻",
+        "navigationBarTextStyle": "white"
     },
     "sitemapLocation": "sitemap.json"
 }

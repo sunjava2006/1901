@@ -1,3 +1,4 @@
+<import src="/pages/templates/templates"/>
 <view class='page'>
     <view class='searchbar'>
         <text>搜索</text>
@@ -47,33 +48,12 @@
         <view class='plus'>+</view>
     </view>
 
-    <swiper class='list'  current-item-id='{{currId}}' >
+    <swiper class='list'  current-item-id='{{currId}}' circular='true' bindchange="changeItem">
         <swiper-item item-id="0">
-            <scroll-view scroll-y="true" style='height:100%;'>
-                <view>
-                   <block wx:for="{{14}}">
-                   
-                       <view class='news'>
-                            <view class='title'>智码堂开课了</view>
-                            <view class='news-imgs'>
-                                <image src='/imgs/1.jpg'></image>
-                                <image src='/imgs/2.jpg'></image>
-                                <image src='/imgs/3.jpg'></image>
-                            </view>
-                            <view class='info'>
-                                <text class='author'>中新网</text>
-                                <text class='date'>2019-3-3</text>
-                            </view>
-                        </view>
-                   
-                   
-                   </block>
-                 
-                </view>
-            </scroll-view>
+            <template is="newslist" data="{{count}}"/>
         </swiper-item>
         <swiper-item item-id="1">
-            helo
+            <template is="newslist" data="{{count}}"/>
         </swiper-item>
 
     </swiper>
