@@ -3,11 +3,50 @@
         <text>搜索</text>
         <view>
             <image src='/imgs/search.png'></image>
-            <input></input>
+            <input placeholder='查询关键字'></input>
         </view>
     </view>
-    <scroll-view class='menu'>
-    </scroll-view>
+    <view class='menu'>
+        <scroll-view class='kind-list' scroll-x="true">
+            <view class="row">
+                <view>
+                    <view class='item'>头条</view>
+                </view>
+                <view>
+                    <view class='item'>社会</view>
+                </view>
+                <view>
+                    <view class='item'>国内</view>
+                </view>
+                <view>
+                    <view class='item'>国际</view>
+                </view>
+                <view>
+                    <view class='item'>娱乐</view>
+                </view>
+                <view>
+                    <view class='item'>体育</view>
+                </view>
+                <view>
+                    <view class='item'>军事</view>
+                </view>
+                <view>
+                    <view class='item'>科技</view>
+                </view>
+                <view>
+                    <view class='item'>财经</view>
+                </view>
+                <view>
+                    <view class='item'>时尚</view>
+                </view>
+
+            </view>
+
+
+        </scroll-view>
+        <view class='plus'>+</view>
+    </view>
+
     <view class='list'>
     </view>
 

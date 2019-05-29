@@ -41,12 +41,35 @@
 .menu{
     height: 80rpx;
     width: 100vw;
-    background: yellow;
+    background: pink;
+    display: flex;
+    flex-direction: row;
+}
+.kind-list{
+    /* background: yellow; */
+    width: 700rpx;
+}
+.plus{
+    width: 50rpx;
+    height: 80rpx;
+    font-size: 40rpx;
+    line-height: 80rpx;
+    text-align: center;
+    font-weight: bold;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+
+}
+.item{
+    width: 100rpx;
+    height: 80rpx;
+    line-height: 80rpx;
+    text-align: center;
 }
 .list{
     flex-grow: 1;
-    background: pink;
+    background: yellow;
     width: 100vw;
-   
-    
 }
