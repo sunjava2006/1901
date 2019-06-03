@@ -50,7 +50,7 @@
 
     <swiper class='list'  current-item-id='{{currId}}' circular='true' bindchange="changeItem">
         <swiper-item item-id="0">
-            <template is="newslist" data="{{count}}"/>
+            <template is="newslist" data="{{array}}"/>
         </swiper-item>
         <swiper-item item-id="1">
             <template is="newslist" data="{{count}}"/>

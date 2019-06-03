@@ -86,13 +86,14 @@
   flex-direction: column;
   align-items: center;
   border-bottom: #000 solid 2px;
-  height: 220rpx;
+  /* height: 220rpx; */
 }
 .title{
     width: 100%;
-    height: 50rpx;
+    /* height: 50rpx; */
     text-indent: 10rpx;
     text-align: left;
+    font-size: 30rpx;
 }
 .news-imgs{
     width:96vw;
@@ -114,8 +115,9 @@
     flex-direction: row;
     justify-content: space-between;
 }
-.auhor,.date{
+.author,.date{
     width: 40vw;
+    font-size: 20rpx;
 }
 .date{
     text-align: right;

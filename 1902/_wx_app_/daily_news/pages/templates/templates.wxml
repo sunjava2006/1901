@@ -1,17 +1,17 @@
 <template name="newslist">
     <scroll-view scroll-y="true" style='height:100%;'>
         <view>
-            <block wx:for="{{count}}">
+            <block wx:for="{{array}}">
                 <view class='news'>
-                    <view class='title'>智码堂开课了</view>
+                    <view class='title'>{{item.title}}</view>
                     <view class='news-imgs'>
-                        <image src='/imgs/1.jpg'></image>
-                        <image src='/imgs/2.jpg'></image>
-                        <image src='/imgs/3.jpg'></image>
+                        <image src='{{item.thumbnail_pic_s}}'></image>
+                        <image src='{{item.thumbnail_pic_s02}}'></image>
+                        <image src='{{item.thumbnail_pic_s03}}'></image>
                     </view>
                     <view class='info'>
-                        <text class='author'>中新网</text>
-                        <text class='date'>2019-3-3</text>
+                        <text class='author'>{{item.author_name}}</text>
+                        <text class='date'>{{item.date}}</text>
                     </view>
                 </view>
             </block>
