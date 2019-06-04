@@ -1,9 +1,10 @@
 {
   "pages": [
-    "pages/index/index"
+    "pages/index/index",
+    "pages/news/news"
   ],
   "window": {
     "defaultTitle": "每日新闻",
-    "titleBarColor":"#f00"
+    "titleBarColor": "#f00"
   }
 }

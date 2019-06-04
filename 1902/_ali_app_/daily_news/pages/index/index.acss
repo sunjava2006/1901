@@ -40,3 +40,41 @@
   line-height: 60rpx;
   width: 420rpx;
 }
+.kinds{
+  height: 80rpx;
+  width: 100vw;
+  background: pink;
+  display: flex;
+  flex-direction: row;
+}
+.scroll{
+  width: 650rpx;
+  height: 80rpx;
+  background: yellow;
+}
+.plus{
+  width: 100rpx;
+  height: 80rpx;
+  text-align: center;
+  font-weight: bold;
+  line-height: 80rpx;
+  font-size: 60rpx;
+}
+.row{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.kind{
+  width: 150rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  text-align: center;
+}
+.selected-kind{
+  width: 150rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  text-align: center;
+  font-weight: bold;color:red;
+}

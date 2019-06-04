@@ -19,6 +19,7 @@ self.$global = AFAppX.$global;
 function success() {
 require('../..//app');
 require('../../pages/index/index');
+require('../../pages/news/news');
 }
 self.bootstrapApp ? self.bootstrapApp({ success }) : success();
 }
