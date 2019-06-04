@@ -18,4 +18,11 @@
     </scroll-view>
     <view class="plus">+</view>
   </view>
+  <!-- ======================= swiper ============================== -->
+  <swiper indicator-dots="{{true}}" class="swiper" >
+     <swiper-item >
+             
+     </swiper-item>
+      
+  </swiper>
 </view>

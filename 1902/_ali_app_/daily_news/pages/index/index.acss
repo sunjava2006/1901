@@ -50,7 +50,7 @@
 .scroll{
   width: 650rpx;
   height: 80rpx;
-  background: yellow;
+  /* background: yellow; */
 }
 .plus{
   width: 100rpx;
@@ -76,5 +76,8 @@
   height: 80rpx;
   line-height: 80rpx;
   text-align: center;
-  font-weight: bold;color:red;
+  font-weight: bold;
+}
+.swiper{
+    flex-grow: 1;
 }
