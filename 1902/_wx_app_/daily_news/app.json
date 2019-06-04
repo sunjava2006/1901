@@ -1,7 +1,7 @@
 {
     "pages": [
         "pages/index/index",
-        "pages/logs/logs",
+        "pages/news/news",
         "pages/templates/templates"
     ],
     "window": {

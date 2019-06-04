@@ -2,7 +2,8 @@
     <scroll-view scroll-y="true" style='height:100%;'>
         <view>
             <block wx:for="{{array}}">
-                <view class='news'>
+                <view class='news' bindtap='openNews' id="{{item.url}}">
+                   
                     <view class='title'>{{item.title}}</view>
                     <view class='news-imgs'>
                         <image src='{{item.thumbnail_pic_s}}'></image>

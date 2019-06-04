@@ -1,0 +1,9 @@
+<view class="page">
+   <view class="search-bar">
+      <text>搜索</text>
+      <view class="search">
+        <image class="search-img" src="/imgs/search.png"/>
+        <input placeholder="Input" class="keywords" />
+      </view>
+   </view>
+</view>

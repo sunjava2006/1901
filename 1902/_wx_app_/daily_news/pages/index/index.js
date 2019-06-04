@@ -10,7 +10,7 @@ Page({
         types: ["top","shehui"]
     },
     selectItem: function(e) {
-        var curId = e.target.id;
+        var curId = e.currentTarget.id;
         
         this.setData({currId: curId});
         this.list(this.data.types[curId]);
@@ -18,6 +18,14 @@ Page({
     changeItem:function(e){
         var id = e.detail.currentItemId;
         this.setData({currId:id});
+    },
+    openNews:function(e){
+
+        var url =  e.currentTarget.id;
+        console.log(url);
+        wx.navigateTo({
+            url: '/pages/news/news?url='+url
+        })
     },
     onShow: function() {
         console.log("--------onLoad--------------")
